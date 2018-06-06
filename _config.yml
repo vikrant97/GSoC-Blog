@@ -1,10 +1,10 @@
-title: Rapid Annotator
-description: The blog is about my updates on the progess on the Google Code of Summer's project, Rapid Annotator.
+title: Multilingual Neural Machine Translation for TV News
+description: This blog is about my progress on my GSoC'18 project.
 
 show_downloads: true
 
-baseurl: "/GSoC-Blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-url: "https://guptavaibhav18197.github.io" # change this to the base hostname & protocol for your site
+baseurl: "/gsoc_blog" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://vikrant97.github.io" # change this to the base hostname & protocol for your site
 
 google_analytics:
 # cayman-blog date format
@@ -15,14 +15,14 @@ cayman-blog:
 theme: # leave it empty
 
 # social
-author: "Vaibhav Gupta"
+author: "Vikrant Goyal"
 image: /thumbnail-jumbo.png
 twitter:
-  # username: vaibhavgupta
+  # username: vikrant97
 #  site:
-facebook:
+#facebook:
   #publisher: 1592372034171500
-  profile_id: vaibhav.gupta.71
-  app_id: 1798910940422432 # cayman-blog
+  profile_id: 
+  app_id:  # cayman-blog
   #authors: vaibhav
 #  admins:
