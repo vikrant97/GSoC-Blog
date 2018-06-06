@@ -1,28 +1,19 @@
 ---
 layout: page
 title: About
-permalink: /about/
+tagline: A few more words about this theme
+permalink: /about.html
 ---
-Warning! Hyperlinks to many bad website designs down there!!
 
-Hi there,
+Rapid annotator is currently a proof-of-concept. This project aims to deliver a usable product by the end of Google Code of Summer. The final product would be a complete tool for fast and simple classification of datasets and a administrative interface for the experimenters where they can conduct their annotation runs. It broadly comprises of 3 steps, namely
 
-I am Ahmed Ismail, a research assistant at
-[Cairo University's Faculty of Engineering](http://eng.cu.edu.eg/en/),
-and a Masters student at [Cairo University's Faculty of Computers and
-Informatics](https://www.fci.cu.edu.eg/).
-My main interest is machine learning and its applications within the
-domain of computational linguistics.
+*   Uploading their datasets to setup the experiment.
+*   Assigning annotators datasets for annotation.
+*   Keeping a track of the annotation progress.
 
-I am currently working on [Senteech](http://www.dataplusme.com/senteech.html),
-a collaborative research project with
-[DataPlusME](http://www.dataplusme.com/) that aims to develop a speech
-emotion recognizer to aid call centers easily find angry calls within
-their huge data sets.
+The main aim of the pre project phase was to do requirements gathering, analysis and  designing the complete system architecture. The project phase will deal with implementing the architecture finally decided upon.
 
-I also previously worked with [RDI](http://www.rdi-eg.com/) on
-[the Hafss project](http://www.rdi-eg.com/Technologies/speech.htm),
-a pronunciation learning application for Islam's Holy Book
-(the Quran). In this project, I explored various deep neural network
-architectures with the amazing [Kaldi Toolkit](kaldi-asr.org/)
-to enhance the recogniton accuracy of the application.
+The link to the _github repository_ source code : [Rapid Annotator](https://github.com/guptavaibhav18197/rapidannotator)
+
+
+[Go to the Home Page]({{ site.url }}{{ site.baseurl }})
